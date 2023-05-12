@@ -1,3 +1,17 @@
+body{
+    background-color: #eaf6f6;
+}
+
 h1{
     text-align: center;
+    color: #66BFBF;
 }
+h3{
+    color: #66BFBF;
+}
+hr{
+    background-color: white;
+    border: none;
+    height: 2px;
+}
+
